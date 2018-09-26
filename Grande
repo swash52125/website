@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Grande International Hospital</title>
+<link rel="stylesheet" href="head.css">
+<link rel="stylesheet" href="ss.css">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
+<link rel="stylesheet" type="text/css" href="footer.css">
+
+</head>
+
+<body><section>
+<div>
+
+                              <p align="right"><a href="http://www.grandehospital.com/appointment" title="MAKE APPOINTMENT" style="color:#8C0000;"><img src="Images/appointment-icon.png"><alt="MAKE APPOINTMENT">APPOINTMENT</a></p>
+							  </div>
+							  <ul>
+   <li class="dropdown">
+    <a class="dropbtn">Patient Care and Services</a>
+    <div class="dropdown-content">
+      <a href="Admission.html">Admission Process</a>
+      <a href="Discahrge.html">Discharge Process</a>
+      <a href="guidlines.html">Guidelines for Visitors</a>
+      <a href="Patient-Attendant-Responsibilities.html">Patient and Attendant Responsibilities</a>
+      <a href="Rights.html">Patient and Attendant Rights</a>
+      <a href="ICU.html">Visiting guidelines for Intensive Care Units (ICUs)</a>
+      <a href="Blood.html">Blood Bank</a>
+      
+      
+    </div>
+  <li><a href="Project-OPD.html">OPD Section</a></li>
+  <li class="dropdown">
+    <a class="dropbtn">Specialities</a>
+    <div class="dropdown-content">
+      <a href="Anaesthesiology.html">Anesthiology</a>
+      <a href="Cardiology.html">Cardiology</a>
+      <a href="Dermatology.html">Dermatology</a>
+      <a href="ENT.html">ENT</a>
+      <a href="Endocrinology.html">Endocrinology</a>
+      <a href="Haematology.html">Haematology</a>
+      <a href="Nephrology.html">Nephrology</a>
+      <a href="Neurology.html">Neurology</a>
+      <a href="Oncology.html">Oncology</a>
+      <a href="Ophthalmology.html">Ophthalmology</a>
+      <a href="Orthopaedics-and-Joint-Replacement.html">Orthopaedics and Joint Replacement</a>
+      <a href="Paediatrics-and-Neonatology.html">Paediatrics and Neonatology</a>
+      <a href="Radiology.html">Radiology</a>
+      <a href="Urology.html">Urology</a>
+
+    </div>
+  </li>
+  <li><a href="doctor.html">Doctor Info</a></li>
+  <li><a href="Project_Work--About_Section.html">About Us</a></li>
+  <li><a href="Careers.html">Careers</a></li>
+  <li><a href="login.html">LogIn/SignUp</a></li>
+  <li><a href="index.html">Home</a></li>
+</ul>
+				
+<!pictcture slider 	start.....................................................................>		 
+
+			  
+ <div id="stage">
+ <div>
+<a href="1.jpg"><img class="img" src="images/58a690a3ba7cc.jpg" ></a></div>
+<div>
+<a href="2.jpg"><img class="img" src="images/58a69027c9c15.jpg" ></a></div>
+<div>
+<a href="3.jpg"><img class="img" src="images/58a69111d6867.jpg" ></a></div>
+</div>
+
+<script type="text/javascript">
+
+
+
+  window.addEventListener("DOMContentLoaded", function(e) {
+
+    var stage = document.getElementById("stage");
+    var fadeComplete = function(e) { stage.appendChild(arr[0]); };
+    var arr = stage.getElementsByTagName("a");
+    for(var i=0; i < arr.length; i++) {
+      arr[i].addEventListener("animationend", fadeComplete, false);
+    }
+
+  }, false);
+</script>
+
+
+<!picture slider end-------------------------------------------------------------------------->
+
+
+<!text slider start--------------------------------------------------------------------------->
+
+<div class="container"> 
+  <div class="box">
+  <div class="icon"><i class="fa fa-sign-in" aria-hidden="true">
+     </i></div>
+     <div class="content">
+       <a href="demo2.html"><h1>Login</h1></a>
+       <p> Please login with User Id or Password.Create a New account</p>
+     </div>
+  </div>
+   <div class="box">
+  <div class="icon"><i class="fa fa-user-md" aria-hidden="true">
+     </i></div>
+     <div class="content">
+       <h1>Doctors</h1>
+       <p>Hero MotoCorp is India's leading two wheeler company, which has been providing customers with an excellent range of two wheelers that ensure both style and comfort. The story of Hero MotoCorp can be traced.</p>
+     </div>
+  </div>
+   <div class="box">
+  <div class="icon"><i class="fa fa-hospital-o" aria-hidden="true">
+     </i></div>
+     <div class="content">
+       <h1>About Us</h1>
+       <p>Hero MotoCorp is India's leading two wheeler company, which has been providing customers with an excellent range of two wheelers that ensure both style and comfort. The story of Hero MotoCorp can be traced.</p>
+     </div>
+  </div>
+   <div class="box">
+  <div class="icon"><i class="fa fa-ambulance" aria-hidden="true">
+     </i></div>
+     <div class="content">
+       <h1>Services</h1>
+       <p>Hero MotoCorp is India's leading two wheeler company, which has been providing customers with an excellent range of two wheelers that ensure both style and comfort. The story of Hero MotoCorp can be traced.</p>
+     </div>
+  </div>
+   <div class="box">
+  <div class="icon"><i class="fa fa-phone" aria-hidden="true">
+     </i></div>
+     <div class="content">
+       <h1>Contact Us</h1>
+       <p>Hero MotoCorp is India's leading two wheeler company, which has been providing customers with an excellent range of two wheelers that ensure both style and comfort. The story of Hero MotoCorp can be traced.</p>
+     </div>
+  </div>
+</div>
+
+
+ <!Footer------------------------------------------------------------------------------------------------------------------>
+<div class="footer-main">
+  <div class="footer-inner">
+  <div class="footer-left">
+  <div class="footer-box">
+      <h6>ADDRESS</h6>
+      <ul>
+        <li><i class="fa fa-map-marker" style="font-size: 25px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;Phagwarra</li>
+        <li><i class="fa fa-envelope" style="font-size: 25px;"></i>&nbsp;&nbsp;P.O.BOX 144411</li>
+        <li><i class="fa fa-phone" style="font-size: 25px;"></i>&nbsp;&nbsp;
+      +91-9056407407<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-7973776544<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-9872197612</li>
+      <li><i class="fa fa-inbox" style="font-size: 25px;"></i>&nbsp;&nbsp;info@grandehospital.com</li>
+      </ul>
+          </div>
+          <div class="footer-logo">
+            <img style="float: left;" src="Images/logo-btm.jpg" height="80px" width="180px" alt="logo">
+            <span><br>&nbsp;&nbsp;ALL RIGHTS RESERVED<br/>&nbsp;&nbsp;&copy; 2018 Grande International Hospital</span><br><br><br>
+            <span>Website designed & developed by : MSB Group</span>
+          
+          
+          </div>
+          </div>
+         
+          <div class="footer-box">
+          <h6>QUICK LINKS</h6>
+          <ul>
+            <li>About GIH</li>
+            <li>Grande Transport Service</li>
+            <li>Departments</li>
+            <li>Doctors</li>
+            <li>Contact US</li>
+            <li>Downloads</li>
+            <li>Health Packages</li>
+            <li>Careers</li>
+          </ul>
+          </div>
+            </div>
+            <div class="footer-right">
+              <div class="footer-box">
+                <h5>QUICK MESSAGES / FEEDBACK</h5>
+                
+            </div>
+            </div>
+           
+
+  <div class="clr"></div>
+</div>
+</div>
+</section>
+
+</body>
+</html>
